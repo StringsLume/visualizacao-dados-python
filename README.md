@@ -31,3 +31,7 @@ A partir dos dados, são realizadas análises por categoria e geradas visualiza�
 ## Objetivo
 
 Aplicar conceitos de programação em Python, banco de dados e análise de dados na prática, utilizando ferramentas de manipulação e visualização de informações.
+
+## Documentação
+
+A documentação completa da atividade está disponível no arquivo PDF deste repositório.
